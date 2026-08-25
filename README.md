@@ -79,27 +79,7 @@ python3 test_scheduler.py
 
 ---
 
-## 📤 如何推送到 GitHub
-
-```bash
-cd mini-coroutine-scheduler
-
-# 1. 初始化 Git 仓库
-git init -b main
-
-# 2. 提交初始版本
-git add .
-git commit -m "feat: initial commit of mini-coroutine-scheduler with state machine and IPC"
-
-# 3. 关联你的 GitHub 远程仓库（请先在 GitHub 创建同名仓库）
-git remote add origin git@github.com:quanzaizai/mini-coroutine-scheduler.git
-
-# 4. 推送到远程
-git push -u origin main
-```
-
----
-
 ## 📄 开源许可证
 
 本项目采用 [MIT License](LICENSE) 许可。
+
