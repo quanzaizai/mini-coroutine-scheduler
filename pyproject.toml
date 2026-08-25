@@ -1,0 +1,11 @@
+[project]
+name = "mini-coroutine-scheduler"
+version = "0.1.0"
+description = "A toy user-space Coroutine & Cooperative Task Scheduler demonstrating OS process lifecycles and event loops."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
